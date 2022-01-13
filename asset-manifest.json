@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/galeryInfiniteScrollReact/static/css/main.7431827b.chunk.css",
+    "main.js": "/galeryInfiniteScrollReact/static/js/main.6ee70fa2.chunk.js",
+    "main.js.map": "/galeryInfiniteScrollReact/static/js/main.6ee70fa2.chunk.js.map",
+    "runtime-main.js": "/galeryInfiniteScrollReact/static/js/runtime-main.c7ec58b3.js",
+    "runtime-main.js.map": "/galeryInfiniteScrollReact/static/js/runtime-main.c7ec58b3.js.map",
+    "static/js/2.0c71e862.chunk.js": "/galeryInfiniteScrollReact/static/js/2.0c71e862.chunk.js",
+    "static/js/2.0c71e862.chunk.js.map": "/galeryInfiniteScrollReact/static/js/2.0c71e862.chunk.js.map",
+    "index.html": "/galeryInfiniteScrollReact/index.html",
+    "precache-manifest.91b6fe6342b04c9ef94984d8cda7a33d.js": "/galeryInfiniteScrollReact/precache-manifest.91b6fe6342b04c9ef94984d8cda7a33d.js",
+    "service-worker.js": "/galeryInfiniteScrollReact/service-worker.js",
+    "static/css/main.7431827b.chunk.css.map": "/galeryInfiniteScrollReact/static/css/main.7431827b.chunk.css.map",
+    "static/js/2.0c71e862.chunk.js.LICENSE.txt": "/galeryInfiniteScrollReact/static/js/2.0c71e862.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ec58b3.js",
+    "static/js/2.0c71e862.chunk.js",
+    "static/css/main.7431827b.chunk.css",
+    "static/js/main.6ee70fa2.chunk.js"
+  ]
+}
