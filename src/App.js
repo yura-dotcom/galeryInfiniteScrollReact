@@ -3,7 +3,7 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 import './App.css';
 
 const accessKey = process.env.REACT_APP_UNSPLASH_ACCESS_KEY; // ключ доступу до апі
-
+console.log(accessKey)
 export default function App() {
   const [images, setImages] = useState([]); // стан картинок
   const [page, setPage] = useState(1); // стан сторінки
